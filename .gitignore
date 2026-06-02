@@ -1,0 +1,21 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Environment files
+.env
+venv/
+ENV/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Editor files
+.vscode/
